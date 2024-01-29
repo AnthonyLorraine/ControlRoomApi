@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ControlRoomApi": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "API_TOKEN": "",
+        "API_USERNAME": ""
+      }
+    }
+  }
+}
